@@ -1,7 +1,7 @@
 # 📊 Student Data Visualization Project
 
-## 📌 Description
-This project analyzes student performance using Python and visualizes the data using charts.
+## 📌 Overview
+This project analyzes student performance data and visualizes insights using Python.
 
 ## 🛠️ Technologies Used
 - Python
@@ -9,11 +9,20 @@ This project analyzes student performance using Python and visualizes the data u
 - Matplotlib
 - Seaborn
 
-## 📈 Visualizations
-- Bar Chart
-- Line Chart
-- Pie Chart
-- Heatmap
+## 📈 Visualizations Included
+- Bar Chart (Total Marks)
+- Line Chart (Subject-wise performance)
+- Pie Chart (Subject contribution)
+- Heatmap (Score intensity)
+
+## 🧠 Key Insights
+- Student C scored the highest marks.
+- Maths scores show higher variation.
+- English scores are relatively consistent.
 
 ## 🎯 Objective
-To convert raw student data into meaningful insights using visualization techniques.
+To convert raw data into meaningful visual insights.
+
+## 🚀 Future Improvements
+- Add real dataset (Kaggle)
+- Build interactive dashboard (Streamlit)
